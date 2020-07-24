@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   width="700"
+   height="700"
+   sodipodi:docname="leptjets1e.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1434"
+     inkscape:window-height="845"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.67428571"
+     inkscape:cx="82.279456"
+     inkscape:cy="352.01397"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <image
+     sodipodi:absref="/home/pivarski/work/hepr8.physics.tamu.edu/talks/2010-07-29_exoticamuons/leptjets1e.jpg"
+     xlink:href="leptjets1e.jpg"
+     width="700"
+     height="700"
+     id="image12"
+     x="0"
+     y="0" />
+  <path
+     sodipodi:type="arc"
+     style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4,4;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path2818"
+     sodipodi:cx="347.45102"
+     sodipodi:cy="350.5098"
+     sodipodi:rx="328.25174"
+     sodipodi:ry="328.25174"
+     d="m 675.70276,350.5098 a 328.25174,328.25174 0 1 1 -656.50348,0 328.25174,328.25174 0 1 1 656.50348,0 z" />
+  <text
+     xml:space="preserve"
+     style="font-size:27px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+     x="37.359528"
+     y="294.98618"
+     id="text2820"><tspan
+       sodipodi:role="line"
+       id="tspan2822"
+       x="37.359528"
+       y="294.98618">dimuon</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:27px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+     x="336.40085"
+     y="110.58643"
+     id="text2824"><tspan
+       sodipodi:role="line"
+       id="tspan2826"
+       x="336.40085"
+       y="110.58643">dielectron</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:27px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+     x="565.31689"
+     y="298.7738"
+     id="text2828"><tspan
+       sodipodi:role="line"
+       id="tspan2830"
+       x="565.31689"
+       y="298.7738">dipion</tspan></text>
+  <rect
+     style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00000083;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect3626"
+     width="477.07806"
+     height="95.876595"
+     x="11.969805"
+     y="600.76654" />
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+     x="20.973509"
+     y="639.46887"
+     id="text2832"><tspan
+       sodipodi:role="line"
+       id="tspan2834"
+       x="20.973509"
+       y="639.46887"
+       style="font-size:36px">From Matt Strassler</tspan><tspan
+       sodipodi:role="line"
+       x="20.973509"
+       y="666.5274"
+       id="tspan3628">Higgs → 2 vpions → U-bosons → lepton pairs</tspan><tspan
+       sodipodi:role="line"
+       x="20.973509"
+       y="689.0274"
+       id="tspan2836">see http://silicon.phys.washington.edu/LongLivedWorkshop/</tspan></text>
+  <path
+     d="m 675.70276,350.5098 a 328.25174,328.25174 0 1 1 -656.50348,0 328.25174,328.25174 0 1 1 656.50348,0 z"
+     sodipodi:ry="328.25174"
+     sodipodi:rx="328.25174"
+     sodipodi:cy="350.5098"
+     sodipodi:cx="347.45102"
+     id="path2838"
+     style="color:#000000;fill:none;stroke:#000000;stroke-width:6.00006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12.00012,12.00012;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     sodipodi:type="arc"
+     transform="matrix(0.33333,0,0,0.33333,231.63517,233.67437)" />
+  <path
+     d="m 675.70276,350.5098 a 328.25174,328.25174 0 1 1 -656.50348,0 328.25174,328.25174 0 1 1 656.50348,0 z"
+     sodipodi:ry="328.25174"
+     sodipodi:rx="328.25174"
+     sodipodi:cy="350.5098"
+     sodipodi:cx="347.45102"
+     id="path2840"
+     style="color:#000000;fill:none;stroke:#000000;stroke-width:2.999985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.99997,5.99997;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     sodipodi:type="arc"
+     transform="matrix(0.66667,0,0,0.66667,115.81585,116.83543)" />
+  <text
+     xml:space="preserve"
+     style="font-size:27px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+     x="437.45621"
+     y="444.76663"
+     id="text3614"><tspan
+       sodipodi:role="line"
+       id="tspan3616"
+       x="437.45621"
+       y="444.76663">1 m</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:27px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+     x="523.34473"
+     y="511.50677"
+     id="text3618"><tspan
+       sodipodi:role="line"
+       id="tspan3620"
+       x="523.34473"
+       y="511.50677">2 m</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:27px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Bitstream Charter Bold"
+     x="607.54816"
+     y="581.26996"
+     id="text3622"><tspan
+       sodipodi:role="line"
+       id="tspan3624"
+       x="607.54816"
+       y="581.26996">3 m</tspan></text>
+</svg>
